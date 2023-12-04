@@ -1,11 +1,11 @@
 {
-  "name": "Example Title Here",
-  "short_name": "Short Title",
+  "name": "Flagrant Fowl Futbol League",
+  "short_name": "Futbol League",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#000000",
-  "description": "Description Here",
+  "description": "The Best Futbol League!",
   "icons": [
     {
       "src": "icon16.png",
